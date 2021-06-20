@@ -141,3 +141,16 @@ color: #555}
 .navv a:hover{
     background-color: #777;
 } */
+
+.bluee{
+    color: navy;
+}
+
+.padd{
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+.centre a:hover{
+    background-color: #fff;
+}
