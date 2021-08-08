@@ -41,6 +41,8 @@ td {
   font-size: 1.5em;
   padding: 1.23em;
   background-color: lightblue;
+   animation: example 5s ease-in-out infinite alternate;
+  border-radius: 20px;
 }
 
 .centre {
@@ -157,7 +159,7 @@ transform: rotateZ(2deg);
 
 .h2-font-large {
   font-size: 2em;
-  animation: example 5s ease-in-out infinite alternate;
+  animation: example 5s linear infinite alternate;
   border-radius: 20px;
 }
 @keyframes example {
